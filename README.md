@@ -6,3 +6,10 @@ Problem -
 To predict the percentage scores of a student based on his/her hours of study.
 What will be predicted score if a student studies for 9.25 hrs in a day?
 Data can ve found at - http://bit.ly/w-data
+
+## Importing the libraries
+import numpy as np
+import matplotlib.pyplot as plt
+import pandas as pd
+%matplotlib inline
+
