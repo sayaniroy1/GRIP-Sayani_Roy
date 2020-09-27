@@ -13,3 +13,25 @@ import matplotlib.pyplot as plt
 import pandas as pd
 %matplotlib inline
 
+## Importing the dataset
+url = 'https://raw.githubusercontent.com/AdiPersonalWorks/Random/master/student_scores%20-%20student_scores.csv'
+df = pd.read_csv(url, error_bad_lines=False)
+print("Data imported successfully")
+df.head()
+
+Data imported successfully
+
+Hours	Scores
+0	2.5	21
+1	5.1	47
+2	3.2	27
+3	8.5	75
+4	3.5	30
+
+## Plotting the distribution of scores
+df.plot(x='Hours', y='Scores', style='o')    
+plt.xlabel('Hours')  
+plt.ylabel('Scores')  
+plt.title('Hours vs Scores')
+plt.show()
+
