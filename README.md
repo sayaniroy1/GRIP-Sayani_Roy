@@ -7,4 +7,9 @@ To predict the percentage scores of a student based on his/her hours of study.
 What will be predicted score if a student studies for 9.25 hrs in a day?
 Data can be found at - http://bit.ly/w-data
 
+# Task 4 - To Explore Decision Tree Algorithm
 
+For the given ‘Iris’ dataset, we will create the Decision Tree classifier and visualize it graphically. 
+Problem - 
+To predict the right class of Iris for any new data.
+Data can be found at - https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view
