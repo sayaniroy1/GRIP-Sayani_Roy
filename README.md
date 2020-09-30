@@ -20,3 +20,10 @@ For the given ‘Iris’ dataset, we will create the Decision Tree classifier an
 Problem - 
 To predict the right class of Iris for any new data.
 Data can be found at - https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view
+
+# Task 5 - To explore Business Analytics
+
+To perform ‘Exploratory Data Analysis’ on the provided dataset ‘SampleSuperstore’
+Problem - 
+You are the business owner of the retail firm and want to see how your company is performing. You are interested in finding out the weak areas where you can work to make more profit. What all business problems you can derive by looking into the data? 
+Data can be found at - https://drive.google.com/file/d/1lV7is1B566UQPYzzY8R2ZmOritTW299S/view
